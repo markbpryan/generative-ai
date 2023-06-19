@@ -2,6 +2,8 @@
 
 Welcome to the Google Cloud [Generative AI](https://cloud.google.com/ai/generative-ai) repository.
 
+JUNE 19 UPDATE
+
 This repository contains notebooks and content that demonstrate how to use, develop and manage generative AI workflows using [Generative AI](https://cloud.google.com/ai/generative-ai), powered by [Vertex AI](https://cloud.google.com/vertex-ai) on Google Cloud.
 
 
